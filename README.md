@@ -6,4 +6,4 @@
 4. localhost:8081/api/travel-packages/available-activities/1
 
 # LLD
-![image info](./pictures/Travel-System.jpg)
+![image info](./Travel-System.jpg)
